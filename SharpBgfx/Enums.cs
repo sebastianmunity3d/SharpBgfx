@@ -36,6 +36,11 @@ namespace SharpBgfx {
         Metal,
 
         /// <summary>
+        /// Nintendo Switch
+        /// </summary>
+        NVN,
+
+        /// <summary>
         /// OpenGL ES
         /// </summary>
         OpenGLES,
